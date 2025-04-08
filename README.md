@@ -10,9 +10,7 @@
 ---
 ## 數據分析專案
 1. WEKA分析研究音樂產業趨勢並連結音樂取向與心理疾病的影響
-  - 整理數據並透過簡單的敘述性分析了解數據內容
-  - 利用weka中apriori及hotspot，與預測性分析則利用Bayes net,naive Bayes,logistic,及j48
-- 無序清單
-- 無序清單
-    - 無序清單子清單
+    - 整理數據並透過簡單的敘述性分析了解數據內容
+    - 利用weka中apriori及hotspot，與預測性分析則利用Bayes net,naive Bayes,logistic,及j48
+
 
