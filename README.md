@@ -4,10 +4,12 @@
 - Tel: 0975950503
 ---
 ## 技能
-- 文書處理：Microsoft Office
-- 程式設計：HTML/CSS, C#, Python
-- 數據分析：Weka, SPSS, Power BI
+- 文書處理：Microsoft Office(Word, Excel, PowerPoint), Canva
+- 程式設計：HTML/CSS, C#, Python, Web Scraping
+- 數據分析：Weka, SPSS, Power BI, Excel VBA 
 ---
-## 證照
-- Google數位學程
-- Google Analytics
+## 數據分析專案
+1. WEKA分析研究音樂產業趨勢並連結音樂取向與心理疾病的影響
+>- 整理數據並透過簡單的敘述性分析了解數據內容
+>- 利用weka中apriori及hotspot，與預測性分析則利用Bayes net,naive Bayes,logistic,及j48
+
