@@ -13,6 +13,7 @@
 #### 🧠 專案概述  
 結合音樂偏好與心理健康議題，透過 WEKA 對 Kaggle「Music & Mental Health」資料集進行分析，探討音樂聆聽習慣是否與焦慮、憂鬱、失眠、強迫症等心理狀況存在關聯，並建立預測模型以找出潛在高風險群。  
 #### 🔍 使用方法
+    - 
     - 敘述性分析掌握受測者音樂習慣與背景輪廓
     - 使用 Apriori、HotSpot 探討音樂偏好與背景特徵間的關聯
     - 透過 Bayes Net、Naive Bayes、Logistic Regression、J48 決策樹 建立心理疾病預測模型  
