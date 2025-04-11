@@ -62,7 +62,7 @@
    - 提高消費者忠誠度與客單價
    - 開發創新商品創造差異化價值
    - 透過永續理念強化品牌形象，吸引 ESG 關注族群
-#### 👉 [查看完整分析檔案](https://github.com/yichiaaa/Data_Analysis/blob/01f3fdfedebee07c2c329a05fbf7d453556ec89a/WEKA%E5%A4%A7%E7%9C%BE%E5%B0%8D%E6%96%BC%E8%BC%89%E5%85%B7%E4%BD%BF%E7%94%A8%E4%B9%8B%E7%9B%B8%E5%AE%B9%E6%80%A7%E8%88%87%E7%99%BC%E7%A5%A8%E6%8D%90%E8%B4%88%E4%B9%8B%E5%BD%B1%E9%9F%BF.pdf)
+#### 👉 [查看完整分析檔案](https://github.com/WenYu-HSU/Strategy_Analysis/blob/main/Nespresso%20%E5%B8%82%E5%A0%B4%E5%AE%9A%E4%BD%8D%E8%88%87%20CRM%20%E7%AD%96%E7%95%A5%E5%AF%A6%E4%BD%9C.pdf)
 
 ---
 ## 商業競賽專案
