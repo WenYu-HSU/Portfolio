@@ -65,7 +65,7 @@
 #### 👉 [查看完整分析檔案](https://github.com/WenYu-HSU/Strategy_Analysis/blob/main/Nespresso%20%E5%B8%82%E5%A0%B4%E5%AE%9A%E4%BD%8D%E8%88%87%20CRM%20%E7%AD%96%E7%95%A5%E5%AF%A6%E4%BD%9C.pdf)
 
 ---
-## 商業競賽專案
+## 數位行銷與商業策略專案
 ### 1. HairNi — Your Hairstyle Bestie
 #### 🧠 專案概述
 HairNi 是一款整合 AI、MBTI 個性化分析、虛擬體驗、社群互動與實體髮廊串聯的創新美髮 App。以「幫助消費者找出最適合的髮型與髮品」為核心目標，解決現代人在造型選擇上的決策疲勞，並與品牌（L'Oréal）合作，提供整合式虛實服務
