@@ -209,7 +209,7 @@ HairNi 是一款整合 AI、MBTI 個性化分析、虛擬體驗、社群互動�
 #### 📌 未來展望
 - 建立「Threads 中文情緒分析詞庫」，提升演算法精準度
 - 探討演算法推薦與情緒分布的關聯
-#### 👉 查看完整研究檔案  
+#### 👉 [查看完整研究檔案](https://github.com/WenYu-HSU/web-crawler/blob/main/%E5%9F%BA%E6%96%BC%E6%96%87%E5%AD%97%E6%83%85%E7%B7%92%E5%88%86%E6%9E%90%E6%8E%A2%E8%A8%8E%20Threads%20%E4%BD%BF%E7%94%A8%E8%80%85%E4%BA%92%E5%8B%95%E6%A8%A1%E5%BC%8F.pdf)  
 
 
 ---
